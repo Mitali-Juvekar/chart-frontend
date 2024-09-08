@@ -1,3 +1,8 @@
+Backend source code: https://github.com/Mitali-Juvekar/chart_project
+
+This is the front end of a project. This project uses Nextjs, Typescript, DaisyUI, TailwindCSS, and ChartJS for the frontend and Django for the backend. Data is hardcoded and adding a db like postgres could be a future scope.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

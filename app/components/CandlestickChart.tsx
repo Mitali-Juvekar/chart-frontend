@@ -1,6 +1,6 @@
 "use client";
 
-import { Chart, ChartConfiguration, ChartTypeRegistry, registerables } from 'chart.js';
+import { Chart, ChartConfiguration, registerables } from 'chart.js';
 import { CandlestickController, CandlestickElement, OhlcElement } from 'chartjs-chart-financial';
 import 'chartjs-adapter-date-fns'; // For date parsing
 import enUS from 'date-fns/locale/en-US'; // Date locale
